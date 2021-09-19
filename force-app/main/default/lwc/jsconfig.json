@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/unitTest": [
+                "unitTest/unitTest.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts",
+        "../../../../wireCPR"
+    ],
+    "typeAcquisition": {
+        "wireCPR/wireCPR
+            "jest"
+        ]
+    }
+}
